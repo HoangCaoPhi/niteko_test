@@ -1,0 +1,12 @@
+D:\CV\Netico\BL\bin\Debug\netcoreapp3.1\Niteko.BL.deps.json
+D:\CV\Netico\BL\bin\Debug\netcoreapp3.1\Niteko.BL.dll
+D:\CV\Netico\BL\bin\Debug\netcoreapp3.1\Niteko.BL.pdb
+D:\CV\Netico\BL\bin\Debug\netcoreapp3.1\Niteko.Model.dll
+D:\CV\Netico\BL\bin\Debug\netcoreapp3.1\Niteko.Model.pdb
+D:\CV\Netico\BL\obj\Debug\netcoreapp3.1\Niteko.BL.csproj.AssemblyReference.cache
+D:\CV\Netico\BL\obj\Debug\netcoreapp3.1\Niteko.BL.AssemblyInfoInputs.cache
+D:\CV\Netico\BL\obj\Debug\netcoreapp3.1\Niteko.BL.AssemblyInfo.cs
+D:\CV\Netico\BL\obj\Debug\netcoreapp3.1\Niteko.BL.csproj.CoreCompileInputs.cache
+D:\CV\Netico\BL\obj\Debug\netcoreapp3.1\Niteko.BL.csproj.CopyComplete
+D:\CV\Netico\BL\obj\Debug\netcoreapp3.1\Niteko.BL.dll
+D:\CV\Netico\BL\obj\Debug\netcoreapp3.1\Niteko.BL.pdb

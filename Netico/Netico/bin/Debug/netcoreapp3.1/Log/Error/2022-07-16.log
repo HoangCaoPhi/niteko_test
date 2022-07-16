@@ -1,0 +1,11 @@
+2022-07-16 19:57:20.9341
+- Application: 
+- TenantID: 
+- Level: ERROR
+- Action: 
+- URL: 
+- Message: Có lỗi xảy ra
+- Exception: System.Exception: Test
+   at Netico.Controllers.OrderController.GetOrder() in D:\CV\Netico\Netico\Controllers\OrderController.cs:line 34
+- Environment: 
+

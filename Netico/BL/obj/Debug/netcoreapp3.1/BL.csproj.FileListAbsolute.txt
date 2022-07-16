@@ -1,0 +1,12 @@
+D:\CV\Netico\BL\bin\Debug\netcoreapp3.1\BL.deps.json
+D:\CV\Netico\BL\bin\Debug\netcoreapp3.1\BL.dll
+D:\CV\Netico\BL\bin\Debug\netcoreapp3.1\BL.pdb
+D:\CV\Netico\BL\bin\Debug\netcoreapp3.1\Model.dll
+D:\CV\Netico\BL\bin\Debug\netcoreapp3.1\Model.pdb
+D:\CV\Netico\BL\obj\Debug\netcoreapp3.1\BL.csproj.AssemblyReference.cache
+D:\CV\Netico\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+D:\CV\Netico\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+D:\CV\Netico\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+D:\CV\Netico\BL\obj\Debug\netcoreapp3.1\BL.csproj.CopyComplete
+D:\CV\Netico\BL\obj\Debug\netcoreapp3.1\BL.dll
+D:\CV\Netico\BL\obj\Debug\netcoreapp3.1\BL.pdb

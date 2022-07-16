@@ -1,0 +1,9 @@
+D:\CV\Netico\Model\bin\Debug\netcoreapp3.1\Niteko.Model.deps.json
+D:\CV\Netico\Model\bin\Debug\netcoreapp3.1\Niteko.Model.dll
+D:\CV\Netico\Model\bin\Debug\netcoreapp3.1\Niteko.Model.pdb
+D:\CV\Netico\Model\obj\Debug\netcoreapp3.1\Niteko.Model.csproj.AssemblyReference.cache
+D:\CV\Netico\Model\obj\Debug\netcoreapp3.1\Niteko.Model.AssemblyInfoInputs.cache
+D:\CV\Netico\Model\obj\Debug\netcoreapp3.1\Niteko.Model.AssemblyInfo.cs
+D:\CV\Netico\Model\obj\Debug\netcoreapp3.1\Niteko.Model.csproj.CoreCompileInputs.cache
+D:\CV\Netico\Model\obj\Debug\netcoreapp3.1\Niteko.Model.dll
+D:\CV\Netico\Model\obj\Debug\netcoreapp3.1\Niteko.Model.pdb
